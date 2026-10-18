@@ -9,7 +9,8 @@
    "lat": 51.5076,
    "lng": -0.0994,
    "label": "right",
-   "source": "https://www.tate.org.uk/whats-on/tate-modern"
+   "source": "https://www.tate.org.uk/whats-on/tate-modern",
+   "map": "https://www.google.com/maps/search/?api=1&query=Tate+Modern+London"
   },
   {
    "id": "tate-britain",
@@ -19,7 +20,8 @@
    "lat": 51.491,
    "lng": -0.1278,
    "label": "right",
-   "source": "https://www.tate.org.uk/whats-on/tate-britain"
+   "source": "https://www.tate.org.uk/whats-on/tate-britain",
+   "map": "https://www.google.com/maps/search/?api=1&query=Tate+Britain+London"
   },
   {
    "id": "national-gallery",
@@ -29,7 +31,8 @@
    "lat": 51.5089,
    "lng": -0.1283,
    "label": "left-down",
-   "source": "https://www.nationalgallery.org.uk/exhibitions"
+   "source": "https://www.nationalgallery.org.uk/exhibitions",
+   "map": "https://www.google.com/maps/search/?api=1&query=National+Gallery+London"
   },
   {
    "id": "npg",
@@ -39,7 +42,8 @@
    "lat": 51.5094,
    "lng": -0.1281,
    "label": "right-up",
-   "source": "https://www.npg.org.uk/whatson/exhibitions"
+   "source": "https://www.npg.org.uk/whatson/exhibitions",
+   "map": "https://www.google.com/maps/search/?api=1&query=National+Portrait+Gallery+London"
   },
   {
    "id": "courtauld",
@@ -49,7 +53,8 @@
    "lat": 51.511,
    "lng": -0.1171,
    "label": "right",
-   "source": "https://courtauld.ac.uk/gallery"
+   "source": "https://courtauld.ac.uk/gallery",
+   "map": "https://www.google.com/maps/search/?api=1&query=Courtauld+Gallery+London"
   },
   {
    "id": "british-museum",
@@ -59,7 +64,8 @@
    "lat": 51.5194,
    "lng": -0.127,
    "label": "right",
-   "source": "https://www.britishmuseum.org/exhibitions-events"
+   "source": "https://www.britishmuseum.org/exhibitions-events",
+   "map": "https://www.google.com/maps/search/?api=1&query=British+Museum+London"
   },
   {
    "id": "british-library",
@@ -69,7 +75,8 @@
    "lat": 51.5299,
    "lng": -0.1277,
    "label": "right",
-   "source": "https://www.bl.uk/about/press/releases/british-library-announces-2026-exhibitions"
+   "source": "https://www.bl.uk/about/press/releases/british-library-announces-2026-exhibitions",
+   "map": "https://www.google.com/maps/search/?api=1&query=British+Library+London"
   },
   {
    "id": "va",
@@ -89,7 +96,8 @@
      -0.0553
     ]
    },
-   "source": "https://www.vam.ac.uk/exhibitions"
+   "source": "https://www.vam.ac.uk/exhibitions",
+   "map": "https://www.google.com/maps/search/?api=1&query=V%26A+South+Kensington+London"
   },
   {
    "id": "wallace",
@@ -99,7 +107,8 @@
    "lat": 51.5175,
    "lng": -0.1527,
    "label": "left",
-   "source": "https://www.wallacecollection.org/explore/exhibitions/"
+   "source": "https://www.wallacecollection.org/explore/exhibitions/",
+   "map": "https://www.google.com/maps/search/?api=1&query=Wallace+Collection+London"
   },
   {
    "id": "serpentine",
@@ -115,7 +124,8 @@
      -0.1709
     ]
    },
-   "source": "https://www.serpentinegalleries.org/whats-on/"
+   "source": "https://www.serpentinegalleries.org/whats-on/",
+   "map": "https://www.google.com/maps/search/?api=1&query=Serpentine+Gallery+London"
   },
   {
    "id": "hayward",
@@ -125,7 +135,8 @@
    "lat": 51.5063,
    "lng": -0.1156,
    "label": "left",
-   "source": "https://www.southbankcentre.co.uk/whats-on/art-exhibitions"
+   "source": "https://www.southbankcentre.co.uk/whats-on/art-exhibitions",
+   "map": "https://www.google.com/maps/search/?api=1&query=Hayward+Gallery+London"
   },
   {
    "id": "barbican",
@@ -135,7 +146,8 @@
    "lat": 51.5202,
    "lng": -0.0938,
    "label": "right",
-   "source": "https://www.barbican.org.uk/whats-on/art-design"
+   "source": "https://www.barbican.org.uk/whats-on/art-design",
+   "map": "https://www.google.com/maps/search/?api=1&query=Barbican+Art+Gallery+London"
   },
   {
    "id": "whitechapel",
@@ -145,7 +157,8 @@
    "lat": 51.516,
    "lng": -0.0703,
    "label": "right",
-   "source": "https://www.whitechapelgallery.org/exhibitions/"
+   "source": "https://www.whitechapelgallery.org/exhibitions/",
+   "map": "https://www.google.com/maps/search/?api=1&query=Whitechapel+Gallery+London"
   },
   {
    "id": "ica",
@@ -155,7 +168,8 @@
    "lat": 51.5063,
    "lng": -0.131,
    "label": "left",
-   "source": "https://www.ica.art/exhibitions"
+   "source": "https://www.ica.art/exhibitions",
+   "map": "https://www.google.com/maps/search/?api=1&query=Institute+of+Contemporary+Arts+London"
   },
   {
    "id": "camden-art-centre",
@@ -165,7 +179,8 @@
    "lat": 51.5513,
    "lng": -0.181,
    "label": "right",
-   "source": "https://camdenartcentre.org/whats-on"
+   "source": "https://camdenartcentre.org/whats-on",
+   "map": "https://www.google.com/maps/search/?api=1&query=Camden+Art+Centre+London"
   },
   {
    "id": "slg",
@@ -175,7 +190,8 @@
    "lat": 51.4741,
    "lng": -0.0753,
    "label": "right",
-   "source": "https://www.southlondongallery.org/exhibitions/"
+   "source": "https://www.southlondongallery.org/exhibitions/",
+   "map": "https://www.google.com/maps/search/?api=1&query=South+London+Gallery"
   },
   {
    "id": "chisenhale",
@@ -185,7 +201,8 @@
    "lat": 51.534,
    "lng": -0.0367,
    "label": "right",
-   "source": "https://chisenhale.org.uk/"
+   "source": "https://chisenhale.org.uk/",
+   "map": "https://www.google.com/maps/search/?api=1&query=Chisenhale+Gallery+London"
   },
   {
    "id": "raven-row",
@@ -195,7 +212,8 @@
    "lat": 51.5178,
    "lng": -0.0779,
    "label": "left",
-   "source": "https://www.ravenrow.org/"
+   "source": "https://www.ravenrow.org/",
+   "map": "https://www.google.com/maps/search/?api=1&query=Raven+Row+London"
   },
   {
    "id": "ydp",
@@ -205,7 +223,8 @@
    "lat": 51.5191,
    "lng": -0.131,
    "label": "left",
-   "source": "https://www.ydp.co"
+   "source": "https://www.ydp.co",
+   "map": "https://www.google.com/maps/search/?api=1&query=YDP+19+Bedford+Square+London"
   },
   {
    "id": "warburg",
@@ -215,7 +234,8 @@
    "lat": 51.5232,
    "lng": -0.1305,
    "label": "left-up",
-   "source": "https://warburg.sas.ac.uk/news-events/exhibitions-seasons"
+   "source": "https://warburg.sas.ac.uk/news-events/exhibitions-seasons",
+   "map": "https://www.google.com/maps/search/?api=1&query=Warburg+Institute+London"
   },
   {
    "id": "ra",
@@ -225,7 +245,8 @@
    "lat": 51.5094,
    "lng": -0.1395,
    "label": "left",
-   "source": "https://www.royalacademy.org.uk/exhibitions-and-events"
+   "source": "https://www.royalacademy.org.uk/exhibitions-and-events",
+   "map": "https://www.google.com/maps/search/?api=1&query=Royal+Academy+of+Arts+London"
   },
   {
    "id": "saatchi",
@@ -235,7 +256,8 @@
    "lat": 51.4904,
    "lng": -0.1585,
    "label": "left",
-   "source": "https://www.saatchigallery.com/whats-on"
+   "source": "https://www.saatchigallery.com/whats-on",
+   "map": "https://www.google.com/maps/search/?api=1&query=Saatchi+Gallery+London"
   },
   {
    "id": "dulwich",
@@ -245,7 +267,8 @@
    "lat": 51.4459,
    "lng": -0.0865,
    "label": "right",
-   "source": "https://www.dulwichpicturegallery.org.uk/whats-on/exhibitions/"
+   "source": "https://www.dulwichpicturegallery.org.uk/whats-on/exhibitions/",
+   "map": "https://www.google.com/maps/search/?api=1&query=Dulwich+Picture+Gallery+London"
   },
   {
    "id": "trg",
@@ -256,7 +279,8 @@
    "lng": -0.0868,
    "label": "left",
    "source": "https://gallerytabularasa.co.uk/Upcoming-Present",
-   "note": "London space only (99 East Road, Hoxton). Exclude Tabula Rasa Beijing shows."
+   "note": "London space only (99 East Road, Hoxton). Exclude Tabula Rasa Beijing shows.",
+   "map": "https://www.google.com/maps/search/?api=1&query=Tabula+Rasa+Gallery+99+East+Road+London"
   }
  ],
  "exhibitions": [
