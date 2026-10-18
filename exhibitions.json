@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T12:00:00+01:00",
+ "updated": "2026-10-18T15:57:11+01:00",
  "venues": [
   {
    "id": "tate-modern",
@@ -624,6 +624,18 @@
    "admission": "free",
    "discipline": "Sculpture & installation",
    "url": "https://www.wallacecollection.org/explore/exhibitions/"
+  },
+  {
+   "id": "wc-cosimo",
+   "venue": "wallace",
+   "short": "Cosimo I de' Medici: Art and Dynasty",
+   "title": "Cosimo I de' Medici: Art and Dynasty",
+   "artists": "",
+   "start": "2026-11-18",
+   "end": "2027-03-21",
+   "admission": "free",
+   "discipline": "History & collections",
+   "url": "https://www.wallacecollection.org/whats-on/events/cosimo-i-de-medici-art-and-dynasty/"
   },
   {
    "id": "sp-caguiat",
