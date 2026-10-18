@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:57:11+01:00",
+ "updated": "2026-10-18T23:23:50+01:00",
  "venues": [
   {
    "id": "tate-modern",
@@ -326,12 +326,13 @@
    "short": "Birth of Art Photography",
    "title": "Light and Magic: The Birth of Art Photography",
    "artists": "Alfred Stieglitz, Edward Steichen, Paul Strand, Edward Weston, Gertrude Käsebier and others",
-   "start": null,
+   "start": "2026-10-14",
    "end": "2027-02-21",
    "admission": "paid",
    "discipline": "Photography & moving image",
    "url": "https://www.tate.org.uk/whats-on/tate-modern/light-and-magic",
-   "sinophone": "includes"
+   "sinophone": "includes",
+   "price": "£20 (£19 concessions)"
   },
   {
    "id": "tm-gathering-ground",
@@ -339,7 +340,7 @@
    "short": "Environmental and Social Justice",
    "title": "Gathering Ground",
    "artists": "Bruce Conner, Zheng Bo, Carolina Caycedo, Abbas Akhavan, Minerva Cuevas and others",
-   "start": null,
+   "start": "2025-01-29",
    "end": "2027-03-07",
    "admission": "free",
    "discipline": "Group shows",
@@ -475,9 +476,10 @@
    "artists": "",
    "start": "2026-09-10",
    "end": "2027-07-11",
-   "admission": "check",
+   "admission": "paid",
    "discipline": "History & collections",
-   "url": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry"
+   "url": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+   "price": "£25–£33"
   },
   {
    "id": "bm-korea",
@@ -487,9 +489,10 @@
    "artists": "",
    "start": "2026-10-01",
    "end": "2027-01-31",
-   "admission": "check",
+   "admission": "paid",
    "discipline": "History & collections",
-   "url": "https://www.britishmuseum.org/exhibitions/korea"
+   "url": "https://www.britishmuseum.org/exhibitions/korea",
+   "price": "£18–£20"
   },
   {
    "id": "bm-usa250",
@@ -569,7 +572,7 @@
    "start": null,
    "end": "2027-01-10",
    "admission": "paid",
-   "price": "From £22.50",
+   "price": "£22.50–£24.50",
    "discipline": "History & collections",
    "url": "https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story"
   },
@@ -861,7 +864,7 @@
    "artists": "Liz Larner",
    "start": "2026-09-11",
    "end": "2027-01-17",
-   "admission": "check",
+   "admission": "free",
    "discipline": "Sculpture & installation",
    "url": "https://camdenartcentre.org/whats-on/a-hard-line-to-bend"
   },
@@ -875,7 +878,8 @@
    "end": "2026-11-22",
    "admission": "free",
    "discipline": "Sculpture & installation",
-   "url": "https://www.southlondongallery.org/exhibitions/monika-sosnowska-weight-of-matter/"
+   "url": "https://www.southlondongallery.org/exhibitions/monika-sosnowska-weight-of-matter/",
+   "price": "Suggested £5 donation"
   },
   {
    "id": "ch-wakaliga",
@@ -924,7 +928,8 @@
    "end": "2026-10-25",
    "admission": "paid",
    "discipline": "Painting & works on paper",
-   "url": "https://www.royalacademy.org.uk/exhibition/richard-dadd"
+   "url": "https://www.royalacademy.org.uk/exhibition/richard-dadd",
+   "price": "£15"
   },
   {
    "id": "ra-riviera",
@@ -936,7 +941,8 @@
    "end": "2027-01-31",
    "admission": "paid",
    "discipline": "Painting & works on paper",
-   "url": "https://www.royalacademy.org.uk/exhibition/painting-the-french-riviera"
+   "url": "https://www.royalacademy.org.uk/exhibition/painting-the-french-riviera",
+   "price": "£24–£26"
   },
   {
    "id": "ra-guggenheim",
@@ -948,7 +954,8 @@
    "end": "2027-03-14",
    "admission": "paid",
    "discipline": "Group shows",
-   "url": "https://www.royalacademy.org.uk/exhibition/peggy-guggenheim-in-london"
+   "url": "https://www.royalacademy.org.uk/exhibition/peggy-guggenheim-in-london",
+   "price": "£17"
   },
   {
    "id": "ra-day",
@@ -1022,7 +1029,7 @@
    "artists": "Emily Avery Yoshiko Crow",
    "start": "2026-09-12",
    "end": "2026-11-13",
-   "admission": "free",
+   "admission": "check",
    "discipline": null,
    "url": "https://gallerytabularasa.co.uk/2026-09-Emily-Avery-Yoshiko-Crow"
   },
@@ -1087,6 +1094,71 @@
    "admission": "free",
    "discipline": "History & collections",
    "url": "https://warburg.sas.ac.uk/news-events/events/night-maps"
+  },
+  {
+   "id": "hw-blake",
+   "venue": "hayward",
+   "short": "Quentin Blake",
+   "title": "Quentin Blake: The Southbank Parade",
+   "artists": "Quentin Blake",
+   "start": "2026-10-18",
+   "end": "2026-11-08",
+   "admission": "free",
+   "discipline": "Painting & works on paper",
+   "url": "https://www.southbankcentre.co.uk/whats-on/quentin-blake-the-southbank-parade/",
+   "note": "Site-wide across Southbank Centre"
+  },
+  {
+   "id": "hw-koestler",
+   "venue": "hayward",
+   "short": "Koestler Arts: Rock, Paper, Scissors",
+   "title": "Koestler Arts: Rock, Paper, Scissors",
+   "artists": "",
+   "start": "2026-10-18",
+   "end": "2026-11-29",
+   "admission": "free",
+   "discipline": "Group shows",
+   "url": "https://www.southbankcentre.co.uk/whats-on/koestler-arts-rock-paper-scissors/",
+   "note": "In The Undercroft"
+  },
+  {
+   "id": "ra-rae",
+   "venue": "ra",
+   "short": "Barbara Rae",
+   "title": "In Provence and Southern France",
+   "artists": "Barbara Rae",
+   "start": "2026-09-29",
+   "end": "2027-02-28",
+   "admission": "free",
+   "discipline": "Painting & works on paper",
+   "url": "https://www.royalacademy.org.uk/exhibition/selling-display-barbara-rae-ra",
+   "note": "Selling display"
+  },
+  {
+   "id": "ra-awuni",
+   "venue": "ra",
+   "short": "Emmanuel Awuni",
+   "title": "Emmanuel Awuni",
+   "artists": "Emmanuel Awuni",
+   "start": "2026-09-29",
+   "end": "2027-02-28",
+   "admission": "free",
+   "discipline": "Painting & works on paper",
+   "url": "https://www.royalacademy.org.uk/exhibition/selling-display-emmanuel-awuni",
+   "note": "Selling display"
+  },
+  {
+   "id": "ra-white-cube",
+   "venue": "ra",
+   "short": "Group show: Tracey Emin, Antony Gormley, Michael Armitage etc.",
+   "title": "White Cube x RA",
+   "artists": "Tracey Emin, Antony Gormley, Michael Armitage",
+   "start": "2026-10-06",
+   "end": "2027-03-07",
+   "admission": "free",
+   "discipline": "Group shows",
+   "url": "https://www.royalacademy.org.uk/exhibition/selling-display-white-cube",
+   "note": "Selling display"
   }
  ]
 }
