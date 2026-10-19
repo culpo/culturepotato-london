@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T23:23:50+01:00",
+ "updated": "2026-10-19T02:13:58+01:00",
  "venues": [
   {
    "id": "tate-modern",
@@ -693,32 +693,6 @@
    "url": "https://www.serpentinegalleries.org/whats-on/jesus-rafael-soto-penetrable-bbl-jaune/"
   },
   {
-   "id": "hw-kapoor",
-   "venue": "hayward",
-   "short": "Anish Kapoor",
-   "title": "Anish Kapoor",
-   "artists": "Anish Kapoor",
-   "start": "2026-06-16",
-   "end": "2026-10-18",
-   "admission": "paid",
-   "discipline": "Sculpture & installation",
-   "url": "https://www.southbankcentre.co.uk/whats-on/anish-kapoor/"
-  },
-  {
-   "id": "hw-chihying",
-   "venue": "hayward",
-   "site": "HENI Project Space",
-   "short": "Musquiqui Chihying",
-   "title": "Musquiqui Chihying: A Life of Navigation",
-   "artists": "Musquiqui Chihying",
-   "start": null,
-   "end": "2026-10-18",
-   "admission": "free",
-   "sinophone": "lead",
-   "discipline": "Photography & moving image",
-   "url": "https://www.southbankcentre.co.uk/whats-on/musquiqui-chihying-a-life-of-navigation/"
-  },
-  {
    "id": "hw-goldin",
    "venue": "hayward",
    "short": "Nan Goldin",
@@ -845,18 +819,6 @@
    "url": "https://www.ica.art/exhibitions/autumn-knight"
   },
   {
-   "id": "ica-frieze-film",
-   "venue": "ica",
-   "short": "Frieze Artists' Film Programme",
-   "title": "Frieze × ICA Artists' Film Programme 2026",
-   "artists": "Biogal, Dimitra Charamandas, Nina Davies, Kamil Dossar and others",
-   "start": "2026-10-12",
-   "end": "2026-10-18",
-   "admission": "check",
-   "discipline": "Photography & moving image",
-   "url": "https://www.ica.art/exhibitions/frieze-x-ica-artists-film-programme-2026"
-  },
-  {
    "id": "cac-hard-line",
    "venue": "camden-art-centre",
    "short": "Liz Larner",
@@ -981,19 +943,6 @@
    "admission": "free",
    "discipline": "Sculpture & installation",
    "url": "https://www.royalacademy.org.uk/exhibition/nicole-eisenman-courtyard-sculpture"
-  },
-  {
-   "id": "sg-focus",
-   "venue": "saatchi",
-   "short": "FOCUS Asian Contemporary Art",
-   "title": "FOCUS Asian Contemporary Art: Cultural Dialogue",
-   "artists": "",
-   "start": "2026-10-16",
-   "end": "2026-10-18",
-   "admission": "check",
-   "note": "Art fair",
-   "discipline": "Group shows",
-   "url": "https://www.saatchigallery.com/exhibition/focus-asian-contemporary-art-cultural-dialogue"
   },
   {
    "id": "dpg-hokusai",
